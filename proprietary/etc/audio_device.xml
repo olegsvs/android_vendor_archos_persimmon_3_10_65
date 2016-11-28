@@ -4,24 +4,6 @@
     </versioncontrol>
     <!-- These are the initial mixer settings -->
     <kctl name="Audio_Speaker_class_Switch" value="CLASSAB" />
-    <kctl name="Audio_Amp_R_Switch" value="Off" />
-    <kctl name="Audio_Amp_L_Switch" value="Off" />
-    <kctl name="Voice_Amp_Switch" value="Off" />
-    <kctl name="Speaker_Amp_Switch" value="Off" />
-    <kctl name="AUD_CLK_BUF_Switch" value="Off" />
-    <kctl name="Audio_ADC_1_Switch" value="Off" />
-    <kctl name="Audio_ADC_2_Switch" value="Off" />
-    <kctl name="Audio_ADC_3_Switch" value="Off" />
-    <kctl name="Audio_ADC_4_Switch" value="Off" />
-    <kctl name="Audio_Preamp1_Switch" value="OPEN" />
-    <kctl name="Ext_Speaker_Amp_Switch" value="Off" />
-    <kctl name="Audio_Hdmi_SideGen_Switch" value="Off" />
-    <kctl name="Audio_i2s0_SideGen_Switch" value="Off" />
-    <kctl name="Audio_i2s0_hd_Switch" value="Off" />
-    <kctl name="Audio_ExtCodec_EchoRef_Switch" value="Off" />
-    <kctl name="Audio_I2S0dl1_hd_Switch" value="Off" />
-    <kctl name="Audio_SideGen_Switch" value="OFF" />
-    <kctl name="Audio_Sidetone_Switch" value="Off" />
   	<!--headphone output-->    
     <path name="headphone_output" value="turnon">
         <kctl name="Audio_Amp_R_Switch" value="On" />
