@@ -19,6 +19,10 @@ PRODUCT_COPY_FILES += \
     vendor/archos/persimmon/proprietary/lib/libbtcust.so:system/lib/libbtcust.so \
     vendor/archos/persimmon/proprietary/lib/libbtsession.so:system/lib/libbtsession.so \
     vendor/archos/persimmon/proprietary/lib/libbtcusttable.so:system/lib/libbtcusttable.so \
+	vendor/archos/persimmon/proprietary/lib/libwifi-service.so:system/lib/libwifi-service.so \
+	vendor/archos/persimmon/proprietary/lib/libmtksqlite3_custom.so:system/lib/libmtksqlite3_custom.so \
+	vendor/archos/persimmon/proprietary/lib/libmtksqlite3_android.so:system/lib/libmtksqlite3_android.so \
+	vendor/archos/persimmon/proprietary/lib/libacdk.so:system/lib/libacdk.so \
     vendor/archos/persimmon/proprietary/lib/libcustom_prop.so:system/lib/libcustom_prop.so \
     vendor/archos/persimmon/proprietary/lib/libbtstd.so:system/lib/libbtstd.so \
 	vendor/archos/persimmon/proprietary/lib/libSonyIMX230PdafLibrary.so:system/lib/libSonyIMX230PdafLibrary.so \
