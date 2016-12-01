@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/archos/persimmon/proprietary/lib/libbtcusttable.so:system/lib/libbtcusttable.so \
     vendor/archos/persimmon/proprietary/lib/libcustom_prop.so:system/lib/libcustom_prop.so \
     vendor/archos/persimmon/proprietary/lib/libbtstd.so:system/lib/libbtstd.so \
+	vendor/archos/persimmon/proprietary/lib/libSonyIMX230PdafLibrary.so:system/lib/libSonyIMX230PdafLibrary.so \
     vendor/archos/persimmon/proprietary/lib/libextsys.so:system/lib/libextsys.so \
     vendor/archos/persimmon/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
     vendor/archos/persimmon/proprietary/lib/libbluetoothem_mtk.so:system/lib/libbluetoothem_mtk.so \
