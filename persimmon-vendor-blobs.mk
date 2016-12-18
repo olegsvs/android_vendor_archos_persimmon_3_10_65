@@ -31,6 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/archos/persimmon/proprietary/lib/libadpcm.so:system/lib/libadpcm.so \
     vendor/archos/persimmon/proprietary/lib/libpalsecurity.so:system/lib/libpalsecurity.so \
     vendor/archos/persimmon/proprietary/lib/libpalwlan_mtk.so:system/lib/libpalwlan_mtk.so \
+    vendor/archos/persimmon/proprietary/vendor/lib/hw/bluetooth.blueangel.so:system/vendor/lib/hw/bluetooth.blueangel.so \
     vendor/archos/persimmon/proprietary/vendor/lib/hw/audio.a2dp.blueangel.so:system/vendor/lib/hw/audio.a2dp.blueangel.so \
     vendor/archos/persimmon/proprietary/lib/libcamera_client_mtk.so:system/lib/libcamera_client_mtk.so \
     vendor/archos/persimmon/proprietary/lib/hw/camera.mt6735.so:system/lib/hw/camera.mt6735.so \
